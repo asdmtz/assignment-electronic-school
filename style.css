@@ -1,0 +1,177 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Archivo, sans-serif;
+}
+
+/******* Nav Area *************/
+
+.nav-content{
+    padding-top: 20px;
+}
+
+.nav-content img{
+    width: 180px;
+    height: auto;
+}
+
+.nav-item a{
+    color: lightslategrey;
+}
+
+.btn{
+    border-radius: 20px;
+    padding: 5px 20px;
+    color: white; 
+}
+
+/******** Header Content *************/
+
+.head-content {
+    margin-top: 60px;
+}
+
+.head-content p{
+    color: #fc4700;
+    font-size: 12px;
+}
+
+.slogan p{
+    color: lightslategrey;
+    line-height: 2em;
+    padding: 10px 0px;
+}
+
+.head-content span{
+    color: #20b473;
+}
+
+.head-content img{
+    width: 100%;
+}
+
+.header-bg{
+    background-color: #f0feef;
+}
+
+/******** Topic Student **********/
+
+.topic-students{
+    margin-top: 50px;
+}
+
+.topic-students .card{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.topic-students img{
+    width: 50px;
+}
+
+.topic-students .card{
+    border: none;
+    background-color: #f7fffa;
+}
+
+/********* Online Courses *********/
+
+.online-courses img{
+    width: 100%;
+}
+
+.online-courses .button{
+    margin-bottom: 30px;
+}
+
+.online-courses h3{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+}
+
+
+.online-courses .card {
+    padding-top: 20px;
+    background-color: #fefffe;
+    border: none;
+    box-shadow: 10px 10px 30px lightslategray;
+}
+
+.card-body p{
+    color: lightslategrey;
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+.card-body h5{
+    margin-bottom: 5px;
+    color: #313231;
+}
+
+
+
+
+/********* Testimonial **********/
+
+.testimonial .card{
+    border: none;
+    margin: auto;
+    
+}
+
+.card-text img{
+    width: 30px;
+    padding-right: 5px;
+}
+
+
+
+.testimonial{
+    margin-bottom: 60px;
+}
+.testimonial h3{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.testimonial img{
+    width: 120px;
+}
+
+.testimonial p{
+    padding-top: 10px;
+    line-height: 2em;
+}
+
+
+
+/******** Footer part **********/
+footer{
+    background-color: #272430;
+    color: white;
+    padding: 50px 0px 15px 0px;
+}
+
+.col-md-8 ul li, .col-left p{
+    font-size: 12px;
+}
+
+.col-md-8 p{
+    font-size: 15px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-weight: bold;
+} 
+
+.copy-right{
+    margin-top: 50px;
+}
+
+.copy-right p{
+    font-size: 12px;
+    text-align: center;
+}
+
