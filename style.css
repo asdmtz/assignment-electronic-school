@@ -74,6 +74,18 @@ body {
     background-color: #f7fffa;
 }
 
+.card1:hover{
+    box-shadow: 10px 10px 30px lightslategray;
+}
+.card2:hover{
+    box-shadow: 10px 10px 30px lightslategray;
+}
+.card3:hover{
+    box-shadow: 10px 10px 30px lightslategray;
+}
+.card4:hover{
+    box-shadow: 10px 10px 30px lightslategray;
+}
 /********* Online Courses *********/
 
 .online-courses img{
